@@ -37,10 +37,10 @@ const showCharacters = (resposeObj) => {
         
         characterImage.src = image;
         characterGender.textContent = gender;
-        characterCard.appendChild(characterName);
-        characterCard.appendChild(characterImage);
-        characterCard.appendChild(characterGender);
-        rootDiv.appendChild(characterCard);
+        characterCard.appendChild(character-name);
+        characterCard.appendChild(character-image);
+        characterCard.appendChild(character-gender);
+        rootDiv.appendChild(card);
 
     }
 
